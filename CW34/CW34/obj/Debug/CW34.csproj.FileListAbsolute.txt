@@ -1,0 +1,7 @@
+C:\Users\Dawid\source\repos\CW34\CW34\bin\Debug\CW34.exe.config
+C:\Users\Dawid\source\repos\CW34\CW34\bin\Debug\CW34.exe
+C:\Users\Dawid\source\repos\CW34\CW34\bin\Debug\CW34.pdb
+C:\Users\Dawid\source\repos\CW34\CW34\obj\Debug\CW34.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\source\repos\CW34\CW34\obj\Debug\CW34.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\CW34\CW34\obj\Debug\CW34.exe
+C:\Users\Dawid\source\repos\CW34\CW34\obj\Debug\CW34.pdb
