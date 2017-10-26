@@ -1,0 +1,7 @@
+C:\Users\Dawid\source\repos\cw31\cw31\bin\Debug\cw31.exe.config
+C:\Users\Dawid\source\repos\cw31\cw31\bin\Debug\cw31.exe
+C:\Users\Dawid\source\repos\cw31\cw31\bin\Debug\cw31.pdb
+C:\Users\Dawid\source\repos\cw31\cw31\obj\Debug\cw31.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\source\repos\cw31\cw31\obj\Debug\cw31.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\cw31\cw31\obj\Debug\cw31.exe
+C:\Users\Dawid\source\repos\cw31\cw31\obj\Debug\cw31.pdb
