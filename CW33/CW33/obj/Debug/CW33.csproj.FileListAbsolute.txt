@@ -1,0 +1,7 @@
+C:\Users\Dawid\source\repos\CW33\CW33\bin\Debug\CW33.exe.config
+C:\Users\Dawid\source\repos\CW33\CW33\bin\Debug\CW33.exe
+C:\Users\Dawid\source\repos\CW33\CW33\bin\Debug\CW33.pdb
+C:\Users\Dawid\source\repos\CW33\CW33\obj\Debug\CW33.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\source\repos\CW33\CW33\obj\Debug\CW33.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\CW33\CW33\obj\Debug\CW33.exe
+C:\Users\Dawid\source\repos\CW33\CW33\obj\Debug\CW33.pdb
