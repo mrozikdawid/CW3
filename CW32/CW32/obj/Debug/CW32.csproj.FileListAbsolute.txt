@@ -1,0 +1,7 @@
+C:\Users\Dawid\source\repos\CW32\CW32\bin\Debug\CW32.exe.config
+C:\Users\Dawid\source\repos\CW32\CW32\bin\Debug\CW32.exe
+C:\Users\Dawid\source\repos\CW32\CW32\bin\Debug\CW32.pdb
+C:\Users\Dawid\source\repos\CW32\CW32\obj\Debug\CW32.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\source\repos\CW32\CW32\obj\Debug\CW32.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\CW32\CW32\obj\Debug\CW32.exe
+C:\Users\Dawid\source\repos\CW32\CW32\obj\Debug\CW32.pdb
